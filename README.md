@@ -78,6 +78,8 @@ The runtime is intentionally quiet and execution-focused; architecture documenta
 
 ## Future Work
 
-- Architecture diagram (Step 4B)
 - Example traces
 - Extension to other domains (safety, hiring, content governance)
+- Architecture diagram
+<img width="1280" height="879" alt="Composable Policy Gate Architecture" src="https://github.com/user-attachments/assets/e78a0109-06c4-49ff-8260-52f4d4a6d621" />
+
